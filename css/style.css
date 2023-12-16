@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'ffinish';
-    src: url(/media/fFinish.ttf);
+    src: url(../media/fFinish.ttf);
 }
 
 @font-face {
     font-family: 'caviardreams';
-    src: url(/media/CaviarDreams.ttf);
+    src: url(../media/CaviarDreams.ttf);
 }
 
 *{
@@ -173,10 +173,10 @@ footer{
     border-radius: 50%;
 }
 
-#fb{background: url(/media/sprite.png) no-repeat -439px -146px;}
-#twt{background: url(/media/sprite.png) no-repeat -66px -72px;}
-#ig{background: url(/media/sprite.png) no-repeat -290px -221px;}
-#heart{background: url(/media/sprite.png) no-repeat -587px -221px;}
+#fb{background: url(../media/sprite.png) no-repeat -439px -146px;}
+#twt{background: url(../media/sprite.png) no-repeat -66px -72px;}
+#ig{background: url(../media/sprite.png) no-repeat -290px -221px;}
+#heart{background: url(../media/sprite.png) no-repeat -587px -221px;}
 
 @media screen and (max-width: 720px) {
     article p, ul{font-size: 1.4em;}
